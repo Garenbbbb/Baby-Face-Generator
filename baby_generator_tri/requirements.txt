@@ -1,0 +1,8 @@
+dlib @ https://github.com/davisking/dlib
+numpy
+cv2
+keras
+sklearn
+pickle
+skimage
+Pillow
