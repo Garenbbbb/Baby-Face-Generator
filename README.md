@@ -7,7 +7,10 @@ a. Triangulation Mesh Warping
 b. Feature-based morphing using `The Baier The Baier-Neely morphing algorithm`
 
 ### How to run Triangulation Mesh Warping  
-1. run auto alignment with two images `female pic` and `male pic`
+1. run auto alignment with two images `female pic` and `male pic`  
    a. 
 
 9. The final result is stored as output.jpg
+
+
+### How to run Feature-based morphing 
