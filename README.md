@@ -3,7 +3,8 @@
 # CS445FinalProject
 
 The project contains baby generator pipelines implemented using two different kinds of alogrithms: 
-a. Triangulation Mesh Warping 
+a. Triangulation Mesh Warping  
+
 b. Feature-based morphing using `The Baier The Baier-Neely morphing algorithm`
 
 1. open the scene_complete.ipynb file
