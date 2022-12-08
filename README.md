@@ -16,8 +16,5 @@ b. Feature-based morphing using `The Baier-Neely morphing algorithm`
 3. the baby face will be shown in a pop-out window  
 
 ### How to run Feature-based morphing 
-There are two ways to run this part:
-1. Run `python "feature-based morphing.py"` , it will just produce the sample result from our image collection. 
-2. Run `python "feature-based morphing.py" --input1path --input2path  -- output path -- image size -- predictor path -- alpha -- whether bokeh -- a -- b -- P` this method can accept any two input image and morph according to you request. Run - - help for more details.
+ Run `python "feature-based morphing.py" --input1path --input2path  -- output path -- image size -- predictor path -- alpha -- whether bokeh -- a -- b -- P` this method can accept any two input image and morph according to you request. Run - - help for more details.
 
-[//]: "#PS: you may need to change directory if you used the first method, as in our group member's laptop, we used full directory. All directory are listed at the above of the "feature-based morphing.py" file."
