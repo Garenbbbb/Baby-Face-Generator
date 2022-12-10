@@ -1,5 +1,8 @@
 from align_face import image_align, facemarks_finder
+import pathlib
 
+DIR_p = 'output'
+pathlib.Path(DIR_p).mkdir(parents=True, exist_ok=True)
 
 
 if __name__ == "__main__":
