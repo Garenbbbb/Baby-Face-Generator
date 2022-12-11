@@ -3,7 +3,7 @@
 # CS445 Final Project
 
 The project contains baby generator pipelines implemented using two different kinds of alogrithms:   
-a. Triangulation Mesh Warping (baby_generator_tri folder)
+a. Triangulation Mesh Warping (baby_generator_tri folder)  
 b. Feature-based morphing using `The Baier-Neely morphing algorithm` (fb-morph folder)
 
 ### How to run Triangulation Mesh Warping  
