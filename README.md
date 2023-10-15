@@ -1,4 +1,4 @@
-# Computational-Photography
+# baby generator
 
 # CS445 Final Project
 
